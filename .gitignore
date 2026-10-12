@@ -1,0 +1,24 @@
+# IntelliJ IDEA local configuration
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Maven, IntelliJ and Java output
+target/
+out/
+build/
+*.class
+
+# Local environment and logs
+.env
+.env.*
+!.env.example
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Local editor state
+.cursor/
